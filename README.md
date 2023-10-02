@@ -18,5 +18,5 @@ Browse on Browser
 
 
 DAP - FASHION
-2nd Year B.TECH Project
+
 
